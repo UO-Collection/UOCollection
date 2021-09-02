@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UOCollectionTestApp", "UOCollectionTestApp\UOCollectionTestApp.csproj", "{2AB7F1C9-8A23-47D4-B0CC-35D7A4110A57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UOCollection.FileHandling", "UOCollection.FileHandling\UOCollection.FileHandling.csproj", "{3C0E4D27-5598-4158-84C3-CBF834796CBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UOCollection", "UOCollection\UOCollection.csproj", "{D09DB72E-CBD4-4A85-B202-3E6ECDC91BF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{2AB7F1C9-8A23-47D4-B0CC-35D7A4110A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AB7F1C9-8A23-47D4-B0CC-35D7A4110A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AB7F1C9-8A23-47D4-B0CC-35D7A4110A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C0E4D27-5598-4158-84C3-CBF834796CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C0E4D27-5598-4158-84C3-CBF834796CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C0E4D27-5598-4158-84C3-CBF834796CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C0E4D27-5598-4158-84C3-CBF834796CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D09DB72E-CBD4-4A85-B202-3E6ECDC91BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09DB72E-CBD4-4A85-B202-3E6ECDC91BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09DB72E-CBD4-4A85-B202-3E6ECDC91BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09DB72E-CBD4-4A85-B202-3E6ECDC91BF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
