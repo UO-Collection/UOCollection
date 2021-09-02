@@ -1,4 +1,5 @@
-﻿//===================================================================
+﻿extensions: .cs .cpp .h
+//===================================================================
 //===================================================================
 // Copyright (C) 2021  3HMonkey @UO-Collection
 // 
@@ -19,16 +20,3 @@
 // is known, it is listed here: Wyatt of RUOSI, andreakarasho 
 //===================================================================
 //===================================================================
-
-using System;
-
-namespace UOCollectionTestApp
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
